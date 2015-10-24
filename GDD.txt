@@ -1,0 +1,211 @@
+Game Design Document
+
+Copyright © 2015
+
+Wrote by : UnderTrack
+
+Version : Alpha
+
+Date : 24 / 10 / 2015
+
+1. Présentation générale
+
+1.1. Philosophie
+
+1.2. Questions fréquentes
+
+1.2.1. Qu’est-ce que ce jeu ?
+
+1.2.2. Où le jeu se passe t’il ?
+
+1.2.3. Qu’est-ce que je contrôle ?
+
+1.2.4. De combien de personnages ai-je le contrôle ?
+
+1.2.5. Quel est le but du jeu ?
+
+1.2.6. Qu’est-ce qui rend mon jeu différent ?
+
+2.1. Gameplay
+
+2.1.1. Description générale
+
+2.1.2. Les flux de jeu
+
+2.1.3. Les éléments du gameplay
+
+2.1.4. Données statistiques et physiques
+
+2.1.5. Description de l'IA
+
+2.1.6. Modes de jeu
+
+2.1.7. Gestion de l’apprentissage et aide
+
+2.1.8. Gestion de la durée de vie
+
+2.1.9. Gestion de la difficulté
+
+2.1.10. Modes Mono-joueur
+
+2.1.10.1. Vue générale
+
+2.1.10.2. Histoire
+
+2.1.10.3. Les Objets de quête ou Objectifs
+
+2.1.10.4. Conditions de victoire et d’échec
+
+2.1.10.5. Sauver et Recharger
+
+2.1.10.6. Pause
+
+2.1.10.7. Personnalisation
+
+2.1.10.8. Options de jeu
+
+2.1.11. Modes Multijoueurs
+
+2.1.11.1. Vue générale
+
+2.1.11.2. Les Objets de quête ou Objectifs
+
+2.1.11.3. Conditions de victoire et d’échec
+
+2.1.11.4. Sauver et Recharger
+
+2.1.11.5. Pause
+
+2.1.11.6. Persistance
+
+2.1.11.7. Nombre de joueurs
+
+2.1.11.8. Personnalisation
+
+2.1.11.9. Mode écran divisé
+
+2.1.11.10. Options de jeu
+
+2.2. LevelDesign
+
+2.2.1. Diagramme des niveaux
+
+2.2.2. Chemin critique par niveau
+
+2.2.3. Tableau des actifs
+
+2.2.4. Eléments du décor génériques
+
+2.2.5. Eléments du décor uniques
+
+2.2.6. Blindages
+
+2.2.7. Plans par niveau
+
+2.3. Moteur du jeu
+
+2.3.1. Vue générale
+
+2.3.2. Moteurs de rendu
+
+2.3.3. Caméras
+
+2.3.4. Lumières et Ombres
+
+2.3.5. Effets Spéciaux
+
+2.3.6. Gestion du son
+
+2.3.7. Gestion physique
+
+2.3.8. Multijoueurs
+
+2.3.9. Support multilangues
+
+3. Interface utilisateur
+
+3.1. Vue générale
+
+3.2. Graphe des flux
+
+3.3. Les procédures fonctionnelles
+
+3.4. Les objets de l’interface GUI (Graphical User Interface)
+
+3.5. Les périphériques de contrôle
+
+4. Editeurs (univers et entités)
+
+5. L’Univers du jeu
+
+5.1. Vue générale
+
+5.2. Endroits - Lieux
+
+5.3. Voyage
+
+5.4. Echelle
+
+5.5. Temps et Climat
+
+6. Les entités de l’univers
+
+6.1. Vue générale
+
+6.2. Les entités jouables
+
+6.3. Les entités non jouables
+
+6.4. Les objets
+
+6.5. Les compétences
+
+6.6. La création d’entités
+
+6.7. Les évolutions des différentes entités
+
+6.8. Orientation et les Déplacements
+
+6.9. Interactions inter-entités et entités-univers
+
+6.10. Moyens de locomotion
+
+7. Histoire
+
+7.1. Synopsis
+
+7.2. Découpage interactif du scénario, dialogues
+
+7.3. Références et clins d’œil
+
+8. Choix Artistiques : graphisme et animation
+
+8.1. Vue générale et objectifs
+
+8.2. Aspects 2D
+
+8.3. Aspects 3D
+
+8.4. Animations
+
+8.5. Cinématiques
+
+8.6. Effets spéciaux
+
+8.7. Interface utilisateur
+
+9. Choix Artistiques : musiques et bruitages
+
+9.1. Vue générale et objectifs
+
+9.2. Interface utilisateur et ambiance sonore
+
+9.3. Musiques
+
+9.4. Bruitages
+
+9.5. Voix
+
+9.6. Effets spéciaux
+
+
