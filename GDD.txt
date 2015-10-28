@@ -1,60 +1,61 @@
 Game Design Document
 
-Copyright © 2015
+Copyright Â© 2014
 
-Wrote by : UnderTrack
+Wrote by : UnderTrack & InfaCry
 
 Version : Alpha
 
-Date : 24 / 10 / 2015
+Date : 27 / 06 / 2014
 
-1. Présentation générale
+1. PrÃ©sentation gÃ©nÃ©rale
 
 1.1. Philosophie
+Ce que l'humanitÃ© pourrai vivre si la science rÃ®me trop avec inconsÃ¯ence.
 
-1.2. Questions fréquentes
+1.2. Questions frÃ©quentes
 
-1.2.1. Qu’est-ce que ce jeu ?
+1.2.1. Quâ€™est-ce que ce jeu ?
 
-1.2.2. Où le jeu se passe t’il ?
+1.2.2. OÃ¹ le jeu se passe tâ€™il ?
 
-1.2.3. Qu’est-ce que je contrôle ?
+1.2.3. Quâ€™est-ce que je contrÃ´le ?
 
-1.2.4. De combien de personnages ai-je le contrôle ?
+1.2.4. De combien de personnages ai-je le contrÃ´le ?
 
 1.2.5. Quel est le but du jeu ?
 
-1.2.6. Qu’est-ce qui rend mon jeu différent ?
+1.2.6. Quâ€™est-ce qui rend mon jeu diffÃ©rent ?
 
 2.1. Gameplay
 
-2.1.1. Description générale
+2.1.1. Description gÃ©nÃ©rale
 
 2.1.2. Les flux de jeu
 
-2.1.3. Les éléments du gameplay
+2.1.3. Les Ã©lÃ©ments du gameplay
 
-2.1.4. Données statistiques et physiques
+2.1.4. DonnÃ©es statistiques et physiques
 
 2.1.5. Description de l'IA
 
 2.1.6. Modes de jeu
 
-2.1.7. Gestion de l’apprentissage et aide
+2.1.7. Gestion de lâ€™apprentissage et aide
 
-2.1.8. Gestion de la durée de vie
+2.1.8. Gestion de la durÃ©e de vie
 
-2.1.9. Gestion de la difficulté
+2.1.9. Gestion de la difficultÃ©
 
 2.1.10. Modes Mono-joueur
 
-2.1.10.1. Vue générale
+2.1.10.1. Vue gÃ©nÃ©rale
 
 2.1.10.2. Histoire
 
-2.1.10.3. Les Objets de quête ou Objectifs
+2.1.10.3. Les Objets de quÃªte ou Objectifs
 
-2.1.10.4. Conditions de victoire et d’échec
+2.1.10.4. Conditions de victoire et dâ€™Ã©chec
 
 2.1.10.5. Sauver et Recharger
 
@@ -66,11 +67,11 @@ Date : 24 / 10 / 2015
 
 2.1.11. Modes Multijoueurs
 
-2.1.11.1. Vue générale
+2.1.11.1. Vue gÃ©nÃ©rale
 
-2.1.11.2. Les Objets de quête ou Objectifs
+2.1.11.2. Les Objets de quÃªte ou Objectifs
 
-2.1.11.3. Conditions de victoire et d’échec
+2.1.11.3. Conditions de victoire et dâ€™Ã©chec
 
 2.1.11.4. Sauver et Recharger
 
@@ -82,7 +83,7 @@ Date : 24 / 10 / 2015
 
 2.1.11.8. Personnalisation
 
-2.1.11.9. Mode écran divisé
+2.1.11.9. Mode Ã©cran divisÃ©
 
 2.1.11.10. Options de jeu
 
@@ -94,9 +95,9 @@ Date : 24 / 10 / 2015
 
 2.2.3. Tableau des actifs
 
-2.2.4. Eléments du décor génériques
+2.2.4. ElÃ©ments du dÃ©cor gÃ©nÃ©riques
 
-2.2.5. Eléments du décor uniques
+2.2.5. ElÃ©ments du dÃ©cor uniques
 
 2.2.6. Blindages
 
@@ -104,15 +105,15 @@ Date : 24 / 10 / 2015
 
 2.3. Moteur du jeu
 
-2.3.1. Vue générale
+2.3.1. Vue gÃ©nÃ©rale
 
 2.3.2. Moteurs de rendu
 
-2.3.3. Caméras
+2.3.3. CamÃ©ras
 
-2.3.4. Lumières et Ombres
+2.3.4. LumiÃ¨res et Ombres
 
-2.3.5. Effets Spéciaux
+2.3.5. Effets SpÃ©ciaux
 
 2.3.6. Gestion du son
 
@@ -124,21 +125,21 @@ Date : 24 / 10 / 2015
 
 3. Interface utilisateur
 
-3.1. Vue générale
+3.1. Vue gÃ©nÃ©rale
 
 3.2. Graphe des flux
 
-3.3. Les procédures fonctionnelles
+3.3. Les procÃ©dures fonctionnelles
 
-3.4. Les objets de l’interface GUI (Graphical User Interface)
+3.4. Les objets de lâ€™interface GUI (Graphical User Interface)
 
-3.5. Les périphériques de contrôle
+3.5. Les pÃ©riphÃ©riques de contrÃ´le
 
-4. Editeurs (univers et entités)
+4. Editeurs (univers et entitÃ©s)
 
-5. L’Univers du jeu
+5. Lâ€™Univers du jeu
 
-5.1. Vue générale
+5.1. Vue gÃ©nÃ©rale
 
 5.2. Endroits - Lieux
 
@@ -148,25 +149,25 @@ Date : 24 / 10 / 2015
 
 5.5. Temps et Climat
 
-6. Les entités de l’univers
+6. Les entitÃ©s de lâ€™univers
 
-6.1. Vue générale
+6.1. Vue gÃ©nÃ©rale
 
-6.2. Les entités jouables
+6.2. Les entitÃ©s jouables
 
-6.3. Les entités non jouables
+6.3. Les entitÃ©s non jouables
 
 6.4. Les objets
 
-6.5. Les compétences
+6.5. Les compÃ©tences
 
-6.6. La création d’entités
+6.6. La crÃ©ation dâ€™entitÃ©s
 
-6.7. Les évolutions des différentes entités
+6.7. Les Ã©volutions des diffÃ©rentes entitÃ©s
 
-6.8. Orientation et les Déplacements
+6.8. Orientation et les DÃ©placements
 
-6.9. Interactions inter-entités et entités-univers
+6.9. Interactions inter-entitÃ©s et entitÃ©s-univers
 
 6.10. Moyens de locomotion
 
@@ -174,13 +175,13 @@ Date : 24 / 10 / 2015
 
 7.1. Synopsis
 
-7.2. Découpage interactif du scénario, dialogues
+7.2. DÃ©coupage interactif du scÃ©nario, dialogues
 
-7.3. Références et clins d’œil
+7.3. RÃ©fÃ©rences et clins dâ€™Å“il
 
 8. Choix Artistiques : graphisme et animation
 
-8.1. Vue générale et objectifs
+8.1. Vue gÃ©nÃ©rale et objectifs
 
 8.2. Aspects 2D
 
@@ -188,15 +189,15 @@ Date : 24 / 10 / 2015
 
 8.4. Animations
 
-8.5. Cinématiques
+8.5. CinÃ©matiques
 
-8.6. Effets spéciaux
+8.6. Effets spÃ©ciaux
 
 8.7. Interface utilisateur
 
 9. Choix Artistiques : musiques et bruitages
 
-9.1. Vue générale et objectifs
+9.1. Vue gÃ©nÃ©rale et objectifs
 
 9.2. Interface utilisateur et ambiance sonore
 
@@ -206,6 +207,6 @@ Date : 24 / 10 / 2015
 
 9.5. Voix
 
-9.6. Effets spéciaux
+9.6. Effets spÃ©ciaux
 
 
