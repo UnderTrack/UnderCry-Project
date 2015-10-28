@@ -1,0 +1,21 @@
+Catégories et Classes :
+
+Humain (Defaut)
+
+ - Combattant à distance (utiliser de armes à distance gen.)
+ - Combattant au combat raproché (utilise arme de corps à corps)
+
+Mage (Manipule l'éther)
+
+ - Mage physique (créer des matériaux physiques à partir d'éther (arme))
+ - Mage élémentaire (céer des éléments à partir d'éther (arme))
+
+Criminel furtif (Discrét et Agile)
+
+ - Assassin (utilise des armes légères et discrètes)
+ - Ninja (utilise son corps ou une arme moyenne comme arme)
+
+ Mykors (Robots)
+
+ - Robots à éther (se recharge avec de l'éther)
+ - Robots mécanique (se recharge avec l'éléctricité)
