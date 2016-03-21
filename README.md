@@ -1,8 +1,9 @@
 # **UnderCry Project**
 
 >***
-All the afiliated things about us game. It's include the game source code, the engine, and others things like that.
-All content here is free of rights until a undifined time, during this time, you shall put your nickname after your edit, because, when we're going to make the project private again, we'll just make a list of developpers who've participate.
+All the affiliated things about us game. It's include the game source code, the engine, and others things like that. 
+All content here is free of rights until a undefined time, during this time, you shall put your nickname after your edit, because, when we're going to start seriously the project, we'll make a list of developers who've participated 
+(The only mark that people will find from you on the game).
 >***
 
 ## - **Todo list :**
