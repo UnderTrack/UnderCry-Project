@@ -16,197 +16,290 @@ Ce que l'humanité pourrai vivre si la science rîme trop avec inconsïence.
 1.2. Questions fréquentes
 
 1.2.1. Qu’est-ce que ce jeu ?
+La réponce à la vie !
 
 1.2.2. Où le jeu se passe t’il ?
+Dans notre système solaire.
 
 1.2.3. Qu’est-ce que je contrôle ?
+Un des membre du bunker 42.
 
 1.2.4. De combien de personnages ai-je le contrôle ?
+En alternatif, 12 (5 au départ, plus en progressant).
 
 1.2.5. Quel est le but du jeu ?
+Survivre et découvrire le monde qui entoure lees personnages.
 
 1.2.6. Qu’est-ce qui rend mon jeu différent ?
+Tout ! Over 9999 !
 
 2.1. Gameplay
 
 2.1.1. Description générale
+RPG/FPS complexe
 
 2.1.2. Les flux de jeu
+N/A
 
 2.1.3. Les éléments du gameplay
+N/A
 
 2.1.4. Données statistiques et physiques
+N/A
 
 2.1.5. Description de l'IA
+N/A
 
 2.1.6. Modes de jeu
+Survie solo / Multijoueur
 
 2.1.7. Gestion de l’apprentissage et aide
+N/A
 
 2.1.8. Gestion de la durée de vie
+N/A
 
 2.1.9. Gestion de la difficulté
+N/A
 
 2.1.10. Modes Mono-joueur
+N/A
 
 2.1.10.1. Vue générale
+N/A
 
 2.1.10.2. Histoire
+Voir scénario.
 
 2.1.10.3. Les Objets de quête ou Objectifs
+N/A
 
 2.1.10.4. Conditions de victoire et d’échec
+N/A
 
 2.1.10.5. Sauver et Recharger
+N/A
 
 2.1.10.6. Pause
+N/A
 
 2.1.10.7. Personnalisation
+N/A
 
 2.1.10.8. Options de jeu
+N/A
 
 2.1.11. Modes Multijoueurs
+N/A
 
 2.1.11.1. Vue générale
+N/A
 
 2.1.11.2. Les Objets de quête ou Objectifs
+N/A
 
 2.1.11.3. Conditions de victoire et d’échec
+N/A
 
 2.1.11.4. Sauver et Recharger
+N/A
 
 2.1.11.5. Pause
+N/A
 
 2.1.11.6. Persistance
+N/A
 
 2.1.11.7. Nombre de joueurs
+N/A
 
 2.1.11.8. Personnalisation
+N/A
 
 2.1.11.9. Mode écran divisé
+N/A
 
 2.1.11.10. Options de jeu
+N/A
 
 2.2. LevelDesign
 
 2.2.1. Diagramme des niveaux
+N/A
 
 2.2.2. Chemin critique par niveau
+N/A
 
 2.2.3. Tableau des actifs
+N/A
 
 2.2.4. Eléments du décor génériques
+N/A
 
 2.2.5. Eléments du décor uniques
+N/A
 
 2.2.6. Blindages
+N/A
 
 2.2.7. Plans par niveau
+N/A
 
 2.3. Moteur du jeu
 
 2.3.1. Vue générale
+N/A
 
 2.3.2. Moteurs de rendu
+N/A
 
 2.3.3. Caméras
+N/A
 
 2.3.4. Lumières et Ombres
+N/A
 
 2.3.5. Effets Spéciaux
+N/A
 
 2.3.6. Gestion du son
+N/A
 
 2.3.7. Gestion physique
+N/A
 
 2.3.8. Multijoueurs
+N/A
 
 2.3.9. Support multilangues
+N/A
 
 3. Interface utilisateur
 
 3.1. Vue générale
+N/A
 
 3.2. Graphe des flux
+N/A
 
 3.3. Les procédures fonctionnelles
+N/A
 
 3.4. Les objets de l’interface GUI (Graphical User Interface)
+N/A
 
 3.5. Les périphériques de contrôle
+N/A
 
 4. Editeurs (univers et entités)
+N/A
 
 5. L’Univers du jeu
+N/A
 
 5.1. Vue générale
+N/A
 
 5.2. Endroits - Lieux
+N/A
 
 5.3. Voyage
+N/A
 
 5.4. Echelle
+N/A
 
 5.5. Temps et Climat
+N/A
 
 6. Les entités de l’univers
+N/A
 
 6.1. Vue générale
+N/A
 
 6.2. Les entités jouables
+N/A
 
 6.3. Les entités non jouables
+N/A
 
 6.4. Les objets
+N/A
 
 6.5. Les compétences
+N/A
 
 6.6. La création d’entités
+N/A
 
 6.7. Les évolutions des différentes entités
+N/A
 
 6.8. Orientation et les Déplacements
+N/A
 
 6.9. Interactions inter-entités et entités-univers
+N/A
 
 6.10. Moyens de locomotion
+N/A
 
 7. Histoire
 
 7.1. Synopsis
+Après quelques avancées technologiques majeurs découvertes  par le scientifique Damin Skuare, l'humanité s'était développée sur tout le système solaire. 
+Mais un gros problème avait été découvert par Jay Grigoris un autre scientifique de l'époque : avec le temps un matériaux particulier : le cryomagnétium, qui réagit par une auto-destruction si il est trop longtemps atteint par les UV... P
+ar conséquent, un jour où seul quelques personnes y était préparer, tout ce qui était composé se matériaux, a implosé et presque toute l'humanité avait été éradiquer du système solaire. 
+Après quelques générations, les descendants des survivants étaient sortit de leurs bunkers... 
+Le monde avait changé, et d'énormes mystères leurs restaient à découvrir…
 
 7.2. Découpage interactif du scénario, dialogues
+N/A
 
 7.3. Références et clins d’œil
+Beaucoups trop
 
 8. Choix Artistiques : graphisme et animation
+Cell Shading
 
 8.1. Vue générale et objectifs
+N/A
 
 8.2. Aspects 2D
+N/A
 
 8.3. Aspects 3D
+N/A
 
 8.4. Animations
+N/A
 
 8.5. Cinématiques
+N/A
 
 8.6. Effets spéciaux
+N/A
 
 8.7. Interface utilisateur
+N/A
 
 9. Choix Artistiques : musiques et bruitages
 
 9.1. Vue générale et objectifs
+N/A
 
 9.2. Interface utilisateur et ambiance sonore
+N/A
 
 9.3. Musiques
+N/A
 
 9.4. Bruitages
+N/A
 
 9.5. Voix
+N/A
 
 9.6. Effets spéciaux
-
-
+N/A
